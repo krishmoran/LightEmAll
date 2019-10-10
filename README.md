@@ -1,2 +1,2 @@
 # LightEmAll
-A fractal-based maze game built using Kruskal's algorithm and depth first search
+A fractal-based maze game built using Kruskal's algorithm and breadth first search
